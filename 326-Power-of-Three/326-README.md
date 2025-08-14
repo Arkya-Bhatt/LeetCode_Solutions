@@ -1,6 +1,6 @@
-<h1>326. Power of Three</h1>
+# 326. Power of Three
 
-**Link:** https://leetcode.com/problems/power-of-three/description/
+**Link:** https://leetcode.com/problems/power-of-three/
 
 **Difficulty:** Easy
 
