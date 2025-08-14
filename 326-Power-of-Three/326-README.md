@@ -2,7 +2,7 @@
 
 **Link:** https://leetcode.com/problems/power-of-three/description/
 
-<span style="background-color: black; padding: 5px">**Difficulty:**</span> <span style="background-color: green; padding: 5px">Easy</span>
+**Difficulty:** Easy
 
 ---
 
