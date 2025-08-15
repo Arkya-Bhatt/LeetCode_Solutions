@@ -8,7 +8,7 @@
 
 ## Problem Statement
 
-Given an integer `n`, return _`true`_ if it is a power of three. Otherwise, return _`false`_.
+Given an integer `n`, return _`true` if it is a power of three. Otherwise, return `false`_.
 
 An integer `n` is a power of three, if there exists an integer `x` such that <code>n == 3<sup>x</sup></code>.
 
