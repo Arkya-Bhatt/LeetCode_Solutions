@@ -10,7 +10,7 @@
 
 An <b>n-bit gray code sequence</b> is a sequence of <code>2<sup>n</sup></code> integers where:
 
-- Every integer is in the <b>inclusive</b> range `[0, 2n - 1]`,
+- Every integer is in the <b>inclusive</b> range <code>[0, 2<sup>n</sup> - 1]</code>,
 - The first integer is `0`,
 - An integer appears <b>no more than once</b> in the sequence,
 - The binary representation of every pair of <b>adjacent</b> integers differs by <b>exactly one bit</b>, and
