@@ -16,7 +16,7 @@ Given the `head` of a linked list, remove the <code>n<sup>th</sup></code> node f
 
 **Example 1:**
 
-![alt text](remove_ex1.jpg)
+![alt text](remove_ex1.jpg) \
 **Input:** head = [1,2,3,4,5], n = 2 \
 **Output:** [1,2,3,5]
 
