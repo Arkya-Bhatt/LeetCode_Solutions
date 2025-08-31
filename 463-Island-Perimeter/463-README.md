@@ -20,8 +20,7 @@ The island doesn't have "lakes", meaning the water inside isn't connected to the
 
 **Example 1:**
 
-![island](island.png)
-
+![island](island.png) \
 **Input:** grid = [[0,1,0,0],[1,1,1,0],[0,1,0,0],[1,1,0,0]] \
 **Output:** 16 \
 **Explanation:** The perimeter is the 16 yellow stripes in the image above.
