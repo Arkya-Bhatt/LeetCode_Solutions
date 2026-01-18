@@ -22,7 +22,7 @@ Given the `root` of a binary tree, return _the level order traversal of its node
 
 **Example 2:**
 
-**Input:** root = [[1]] \
+**Input:** root = [1] \
 **Output:** [[1]]
 
 **Example 3:**
