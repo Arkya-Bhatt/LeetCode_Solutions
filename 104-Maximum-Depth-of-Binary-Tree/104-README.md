@@ -1,0 +1,37 @@
+# 104. Maximum Depth of Binary Tree
+
+**Link:** https://leetcode.com/problems/binary-tree-zigzag-level-order-traversal/
+
+**Difficulty:** Easy
+
+---
+
+## Problem Statement
+
+Given the `root` of a binary tree, return _its maximum depth_.
+
+A binary tree's **maximum depth** is the number of nodes along the longest path from the root node down to the farthest leaf node.
+
+---
+
+## Examples
+
+**Example 1:**
+
+![alt text](image.png) \
+**Input:** root = [3,9,20,null,null,15,7] \
+**Output:** 3
+
+**Example 2:**
+
+**Input:** root = [1,null,2] \
+**Output:** 2
+
+---
+
+## Constraints
+
+- The number of nodes in the tree is in the range <code>[0, 10<sup>4</sup>]</code>.
+- `-100 <= Node.val <= 100`
+
+---
