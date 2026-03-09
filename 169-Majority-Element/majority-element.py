@@ -1,0 +1,11 @@
+from typing import List
+from collections import Counter
+
+class Solution:
+    def majorityElement(self, nums: List[int]) -> int:
+        n = len(nums)
+        counter = Counter(nums)
+        for num, count in counter.items():
+            if count > (n//2):
+                return num
+        return -1
