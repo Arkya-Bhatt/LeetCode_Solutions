@@ -35,7 +35,7 @@ The unique XOR values are `{1, 2}`, so the output is 2.
 
 **Input:** nums = [3,1,2] \
 **Output:** 4 \
-**Explanation:**
+**Explanation:** \
 The possible XOR triplet values include:
 - `(0, 0, 0) → 3 XOR 3 XOR 3 = 3`
 - `(0, 0, 1) → 3 XOR 3 XOR 1 = 1`
